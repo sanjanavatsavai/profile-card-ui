@@ -1,6 +1,6 @@
 # 🌟 React Profile Card
 
-A simple and responsive **Profile Card UI** built using **React** and **JSX**. This project showcases reusable components, styling with CSS, and deployment using GitHub Pages or Vercel.
+A simple and responsive **Profile Card UI** built using **React** and **JSX**. This project showcases reusable components, styling with CSS, and deployment using GitHub.
 
 ![Screen Shot 2025-05-20 at 3 50 40 PM](https://github.com/user-attachments/assets/1c1cbc70-336e-4b9c-a801-d55c0c0f7fec)
 
